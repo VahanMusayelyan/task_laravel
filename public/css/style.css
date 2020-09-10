@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+    
+
+#app > main > div > table > tbody > tr > td > form{
+      display: inline-block;
+}
+
+.section_show{
+    float: right;
+}
+
+.update_logo{
+    margin: 15px;
+    width: 60px;
+}
+
+#app > main > div > form > div > label.file_logo{
+  padding-left: 15px;  
+}
+
+#logo{
+    width: 97.4%;
+    margin: 0 auto;
+}
+
+.section_list_logo{
+    width: 100px;
+}
+
+.users_checkbox{
+    margin-right: 10px;
+}
+
+.buttons_div{
+    margin-top: 15px;
+}

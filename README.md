@@ -1,12 +1,20 @@
 Please read README file
 
-DB name task_laravel
+1. on command line 
 
-login root
+composer install
 
-password root
+2. then .env.example rename to .env
 
-then on Bash command
+3. In the .env file rename
+
+DB name -> task_laravel
+
+user -> root
+
+password -> root
+
+4. then on command line
 
 php artisan make migrate
 
